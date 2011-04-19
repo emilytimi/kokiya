@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://kokiya.com/wedding/HOME.html</loc>
+    <lastmod>2011-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/HOME_files/IMG_7103_.jpg</image:loc>
+      <image:caption>主页欢迎图，捧着花的spencer同学深情地与emily同学对视</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>凝</image:title>
+    </image:image>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://kokiya.com/wedding/huan_ying.html</loc>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/huan_ying_files/shapeimage_3.png</image:loc>
+      <image:caption>welcome every one，with cookie</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>with cookie</image:title>
+    </image:image>
+    <lastmod>2011-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kokiya.com/wedding/zhao_pian.html</loc>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/2010-09-07_18-07-51_4_/2010-09-07_18-07-51_4_.jpg</image:loc>
+      <image:caption>拍摄结婚照小店门口留念</image:caption>
+      <image:geo_location>Shanghai, China</image:geo_location>
+      <image:title>结婚证件照留念</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/2010-09-07_18-10-04_606_/2010-09-07_18-10-04_606_.jpg</image:loc>
+      <image:caption>傻呵呵，不过超温馨的证件照</image:caption>
+      <image:geo_location>Shanghai, China</image:geo_location>
+      <image:title>结婚证件照</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/DSC00208/DSC00208.jpg</image:loc>
+      <image:caption>wedding ring</image:caption>
+      <image:geo_location>Shanghai, China</image:geo_location>
+      <image:title>wedding ring</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/DSC01912/DSC01912.jpg</image:loc>
+      <image:caption>spencer,在某次生日的时候</image:caption>
+      <image:geo_location>Shanghai, China</image:geo_location>
+      <image:title>spencer,himself</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/DSC02808/DSC02808.jpg</image:loc>
+      <image:caption>emily和cookie一起吐舌头</image:caption>
+      <image:geo_location>Shanghai, China</image:geo_location>
+      <image:title>emily和cookie一起吐舌头</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/DSC03609/DSC03609.jpg</image:loc>
+      <image:caption>spencer和老爸比身高</image:caption>
+      <image:geo_location>Chongming,Shanghai, China</image:geo_location>
+      <image:title>比身高</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/DSC03805/DSC03805.jpg</image:loc>
+      <image:caption>捧着麦穗的emily</image:caption>
+      <image:geo_location>chongming, Shanghai, China</image:geo_location>
+      <image:title>小麦花儿</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7121_/IMG_7121_.jpg</image:loc>
+      <image:caption>emily超美回眸，婚纱哦</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>一千次回眸</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7143_/IMG_7143_.jpg</image:loc>
+      <image:caption>spencer和emily一起躲雨</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>good rain</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7179_/IMG_7179_.jpg</image:loc>
+      <image:caption>spencer和emily坐在小沙发上～</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>小学生</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7242_/IMG_7242_.jpg</image:loc>
+      <image:caption>spencer和emily在教堂前，够拽</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>用眼神杀死你</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7243_/IMG_7243_.jpg</image:loc>
+      <image:caption>spencer和emily在教堂前，欢迎～</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>here we are</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7333_/IMG_7333_.jpg</image:loc>
+      <image:caption>spencer和Emily的家庭地位体现</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>站与坐</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7456_/IMG_7456_.jpg</image:loc>
+      <image:caption>雨中emily</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>雨与妤</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7571_/IMG_7571_.jpg</image:loc>
+      <image:caption>红色礼服emily</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>the shining</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://kokiya.com/wedding/zhao_pian_files/Media/IMG_7623_/IMG_7623_.jpg</image:loc>
+      <image:caption>无辜的cookie与欢乐的es</image:caption>
+      <image:geo_location>Suzhou, China</image:geo_location>
+      <image:title>吉祥的一家</image:title>
+    </image:image>
+    <lastmod>2011-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://kokiya.com/wedding/invitation.php</loc>
+    <lastmod>2011-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+</urlset>

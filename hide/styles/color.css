@@ -1,0 +1,19 @@
+body {
+	background:#EAE9C0;
+	color:#3C4631;
+}
+.container {
+	background:#F1C6B3;
+}
+.home {
+	background:#F8A2AB;
+}
+.footer {
+	background:#9A746F;
+}
+a:link {
+	color:#3C4631;
+}
+a:visited {
+	color: #3C4631;
+}
